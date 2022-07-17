@@ -1,0 +1,25 @@
+.header_div{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: lightcyan;
+}
+body{
+    background-color: white;
+}
+
+#ButtOon{
+    background-color: black;
+    color: lightcyan;
+    border-radius: 10px;
+}
+
+.copy_right_footer{
+    position:fixed;
+    background-color: black;
+    color: lightcyan;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+
+}
